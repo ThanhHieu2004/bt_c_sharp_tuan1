@@ -1,0 +1,14 @@
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.AssemblyInfoInputs.cache
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.AssemblyInfo.cs
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.csproj.CoreCompileInputs.cache
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\bin\Debug\net8.0\BTTuan1.exe
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\bin\Debug\net8.0\BTTuan1.deps.json
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\bin\Debug\net8.0\BTTuan1.runtimeconfig.json
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\bin\Debug\net8.0\BTTuan1.dll
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\bin\Debug\net8.0\BTTuan1.pdb
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.dll
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\refint\BTTuan1.dll
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.pdb
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\BTTuan1.genruntimeconfig.cache
+D:\Programming Exercises\Nam 124 - SV 3\LTWNC_Csharp\BTTuan1\obj\Debug\net8.0\ref\BTTuan1.dll
